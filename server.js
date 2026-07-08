@@ -68,6 +68,10 @@ app.delete('/api/employees/:id', (req, res) => {
   res.json({ message: 'Employee deleted' });
 });
 
+app.get('/', (_req, res) => {
+  res.json({ message: 'EMS Backend is running', endpoints: ['/api/employees'] });
+});
+
 app.listen(PORT, () => {
   console.log(`EMS Backend running at http://localhost:${PORT}`);
 });

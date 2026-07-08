@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "email": "alice@company.com",
+    "phone": "+1 555 0101",
+    "department": "Engineering",
+    "position": "Senior Developer",
+    "salary": 95000,
+    "status": "Active",
+    "address": "123 Tech Ave",
+    "joined": "2024-03-15"
+  },
+  {
+    "id": 2,
+    "firstName": "Bob",
+    "lastName": "Smith",
+    "email": "bob@company.com",
+    "phone": "+1 555 0102",
+    "department": "Marketing",
+    "position": "Marketing Lead",
+    "salary": 78000,
+    "status": "Active",
+    "address": "456 Market St",
+    "joined": "2024-06-01"
+  },
+  {
+    "id": 3,
+    "firstName": "Carol",
+    "lastName": "Davis",
+    "email": "carol@company.com",
+    "phone": "+1 555 0103",
+    "department": "HR",
+    "position": "HR Manager",
+    "salary": 72000,
+    "status": "Active",
+    "address": "789 People Rd",
+    "joined": "2023-11-20"
+  },
+  {
+    "id": 4,
+    "firstName": "David",
+    "lastName": "Lee",
+    "email": "david@company.com",
+    "phone": "+1 555 0104",
+    "department": "Finance",
+    "position": "Analyst",
+    "salary": 68000,
+    "status": "Inactive",
+    "address": "321 Money Ln",
+    "joined": "2024-01-10"
+  },
+  {
+    "id": 5,
+    "firstName": "Eve",
+    "lastName": "Wilson",
+    "email": "eve@company.com",
+    "phone": "+1 555 0105",
+    "department": "Design",
+    "position": "UI/UX Designer",
+    "salary": 82000,
+    "status": "Active",
+    "address": "654 Creative Blvd",
+    "joined": "2025-02-14"
+  }
+]
